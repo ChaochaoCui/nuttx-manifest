@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+    <remote name="origin" fetch="../apache/" />
+  <default remote="origin" revision="master" sync-j="8" />
+
+  <!-- SOURCE -->
+  <project name="incubator-nuttx" path="nuttx" />
+  <project name="incubator-nuttx-apps" path="apps" />
+</manifest>
