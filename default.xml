@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-    <remote name="origin" fetch="../apache/" />
+    <remote name="origin" fetch="https://github.com/apache" />
   <default remote="origin" revision="master" sync-j="8" />
 
   <!-- SOURCE -->
